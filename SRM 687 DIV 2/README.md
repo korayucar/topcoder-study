@@ -1,1 +1,2 @@
 easy solved
+medium solved
